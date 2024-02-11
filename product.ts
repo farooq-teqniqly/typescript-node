@@ -8,4 +8,4 @@ const product: Product = {
   price: 15,
 };
 
-console.log(product.name);
+export default product;
